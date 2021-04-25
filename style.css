@@ -24,4 +24,10 @@ canvas {
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 10px 10px 10px grey;
+    margin-left: 50px;
+}
+
+video {
+    margin-left: 50px;
+    margin-top: -20px;
 }
